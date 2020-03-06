@@ -1,13 +1,13 @@
-Code,Name,RelationID,Latitude,Longitude
-001,Ba Dinh District,,,
-002,Hoan Kiem District,,,
-003,Tay Ho District,,,
-004,Long Bien District,,,
-005,Cau Giay District,,,
-006,Dong Da District,,,
-007,Hai Ba Trung District,,,
-008,Hoang Mai District,,,
-009,Thanh Xuan District,,,
-019,Nam Tu Liem District,,,
-021,Bac Tu Liem District,,,
-268,Ha Dong District,,,
+﻿d_code,d_en_name,d_vi_name,d_lat,d_lon,d_url
+1,Ba Dinh District,Ba Đình,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Ba_%C4%90%C3%Acnh
+2,Hoan Kiem District,Hoàn Kiếm,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Ho%C3%A0n_Ki%E1%BA%BFm
+3,Tay Ho District,Tây Hồ,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_T%C3%A2y_H%E1%BB%93
+4,Long Bien District,Long Biên,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Long_Bi%C3%Aan
+5,Cau Giay District,Cầu Giấy,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_C%E1%BA%A7u_Gi%E1%BA%A5y
+6,Dong Da District,Đống Đa,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_%C4%90%E1%BB%91ng_%C4%90a
+7,Hai Ba Trung District,Hai Bà Trưng,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Hai_B%C3%A0_Tr%C6%B0ng
+8,Hoang Mai District,Hoàng Mai,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Ho%C3%A0ng_Mai
+9,Thanh Xuan District,Thanh Xuân,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Thanh_Xu%C3%A2n
+19,Nam Tu Liem District,Nam Từ Liêm,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_Nam_T%E1%BB%AB_Li%C3%Aam
+21,Bac Tu Liem District,Bắc Từ Liêm,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_B%E1%BA%AFc_T%E1%BB%AB_Li%C3%Aam
+268,Ha Dong District,Hà Đông,,,https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ph%C6%B0%E1%BB%9Dng_thu%E1%BB%99c_qu%E1%BA%ADn_H%C3%A0_%C4%90%C3%B4ng
